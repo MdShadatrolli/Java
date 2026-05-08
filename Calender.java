@@ -1,5 +1,5 @@
 import java.util.*;
-public class CommandLineArguements {
+public class Calender {
     public static void main(String [] args){
         int button;
         Scanner sc = new Scanner(System.in);
